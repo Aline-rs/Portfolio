@@ -12,6 +12,6 @@
 
 ### Imagens
 
-![Portfolio](print-projeto2.png)
+<img src="/image/print-projeto2.PNG" alt="Projeto"/>
 
-![Portfolio](Print-projeto1.png)
+<img src="/image/Print-projeto1.PNG" alt="Projeto"/>
