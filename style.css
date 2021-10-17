@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+ul{
+    list-style: none;
+    font-style: italic;
+    font-weight: 700;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    
+    background: linear-gradient(90deg, #000000, #434343);
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+header ul{
+    display: flex;
+}
+
+.container{
+    text-align: center;
+}
+
+.container .name h1{
+    font-size: 60px;
+}
+
+.container .name h5{
+    font-size: 25px;
+}
+
+#arrow{
+    font-size: 35px;
+}
+
+#about p{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.form input{
+    width: 50%;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+
+}
+
+.form button{
+    width: 15%;
+    padding: 5px 10px;
+    background: #434343;
+    color: #fff;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: 300ms;
+    border-radius: 0px 5px 5px 0px;
+    margin-top: 20px;
+    margin-left: -5px;
+    margin-bottom: 100px;
+}
+
+header ul li{
+    padding: 10px;
+}
+
+header ul li a:hover{
+    color: darkgrey;
+    text-decoration: underline;
+}
+
+.form button:hover{
+    background-color: #fff;
+    color: #000000;
+}
