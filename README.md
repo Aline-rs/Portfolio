@@ -1,4 +1,4 @@
-# Portfolio - Curso Gama Academy
+# Portfólio - Curso Gama Academy
 
 ## Aprendendo a criar um site para portfólio.
 
