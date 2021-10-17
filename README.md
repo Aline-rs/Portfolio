@@ -12,6 +12,6 @@
 
 ### Imagens
 
-![Portfolio](print-projeto2.PNG)
+![Portfolio](print-projeto2.png)
 
-![Portfolio](Print-projeto1.PNG)
+![Portfolio](Print-projeto1.png)
